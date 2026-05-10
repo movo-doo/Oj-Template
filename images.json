@@ -391,6 +391,34 @@
       "categories": [
         "Solar"
       ]
+    },
+    {
+      "file": "IC 434 LDN 1630 Dark Nebula.jpg",
+      "categories": [
+        "IC",
+        "Lynds LdN",
+        "Nebulae",
+        "Nebulae Dark"
+      ],
+      "info": {
+        "identifiers": {
+          "IC": "IC 434",
+          "Lynds LdN": "LDN 1630"
+        },
+        "extended_info": {
+          "Type": "HII",
+          "Coordinates": "05:41:00.88 -02:27:13.6",
+          "Constellation": "Orion",
+          "Axis": "90.00 30.00",
+          "Common names": "Flame Nebula,Orion B"
+        }
+      }
+    },
+    {
+      "file": "Comet 2023 A3 Tsuchinshan ATLAS 2024-10-21 2 min.png",
+      "categories": [
+        "Comets"
+      ]
     }
   ]
 }
