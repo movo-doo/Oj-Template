@@ -1,0 +1,396 @@
+{
+  "images": [
+    {
+      "file": "Arp 273 PGC 8961 UGC 1810 UGC 1813 Rose Stem Interacting Spiral Galaxy 2025-11-28 38 min.jpg",
+      "categories": [
+        "Arp",
+        "Galaxies",
+        "Galaxies Spiral"
+      ],
+      "info": {
+        "identifiers": {
+          "Arp": "ARP 273",
+          "Galaxies": "PGC 8961"
+        }
+      }
+    },
+    {
+      "file": "Barnards Star HPM 20251026 195938.jpg",
+      "categories": [
+        "Stars"
+      ]
+    },
+    {
+      "file": "C 26 NGC 4244 Silver Needle Spiral Galaxy 2026-04-23 86 min.jpg",
+      "categories": [
+        "Caldwell",
+        "NGC",
+        "Galaxies",
+        "Galaxies Spiral"
+      ],
+      "info": {
+        "identifiers": {
+          "Caldwell": "C 26",
+          "NGC": "NGC 4244"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "12:17:29.66 +37:48:25.6",
+          "Constellation": "Canes Venatici",
+          "Axis": "16.22 7.24",
+          "PosAng": "45",
+          "V-Mag": "10.18",
+          "SurfBr": "24.57",
+          "Hubble": "Sc"
+        }
+      }
+    },
+    {
+      "file": "C 6 NGC 6543 Cats Eye Planetary Nebula 2025-08-11 35 min.jpg",
+      "categories": [
+        "Caldwell",
+        "NGC",
+        "Nebulae",
+        "Nebulae Planetary"
+      ],
+      "info": {
+        "identifiers": {
+          "Caldwell": "C 6",
+          "NGC": "NGC 6543"
+        },
+        "extended_info": {
+          "Type": "PN",
+          "Coordinates": "17:58:33.39 +66:37:59.5",
+          "Constellation": "Draco",
+          "Axis": "0.9",
+          "V-Mag": "9.01",
+          "Common names": "Cat's Eye Nebula"
+        }
+      }
+    },
+    {
+      "file": "C 7 NGC 2403 Intermediate Spiral Galaxy 2026-03-01 29 min.jpg",
+      "categories": [
+        "Caldwell",
+        "NGC",
+        "Galaxies",
+        "Galaxies Spiral"
+      ],
+      "info": {
+        "identifiers": {
+          "Caldwell": "C 7",
+          "NGC": "NGC 2403"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "07:36:51.40 +65:36:09.2",
+          "Constellation": "Camelopardalis",
+          "Axis": "19.95 10.07",
+          "PosAng": "126",
+          "V-Mag": "8.43",
+          "SurfBr": "23.48",
+          "Hubble": "SABc"
+        }
+      }
+    },
+    {
+      "file": "C 8 NGC 559 Ghosts Goblet Open Cluster 2025-08-15 14 min.jpg",
+      "categories": [
+        "Caldwell",
+        "NGC",
+        "Clusters",
+        "Clusters Open"
+      ],
+      "info": {
+        "identifiers": {
+          "Caldwell": "C 8",
+          "NGC": "NGC 559"
+        },
+        "extended_info": {
+          "Type": "OCl",
+          "Coordinates": "01:29:33.17 +63:18:05.2",
+          "Constellation": "Cassiopeia",
+          "Axis": "9",
+          "V-Mag": "9.5"
+        }
+      }
+    },
+    {
+      "file": "C 9 Sharpless 155 LBN 110.11+02.44 Cave Emission Nebula 2025-08-13 25 min.jpg",
+      "categories": [
+        "Caldwell",
+        "Sharpless",
+        "Nebulae",
+        "Nebulae Emission"
+      ],
+      "info": {
+        "identifiers": {
+          "Caldwell": "C 9",
+          "Sharpless": "SHARPLESS 155"
+        }
+      }
+    },
+    {
+      "file": "Lunar 3.JPEG",
+      "categories": [
+        "Lunar"
+      ]
+    },
+    {
+      "file": "Lunar 9.JPEG",
+      "categories": [
+        "Lunar"
+      ]
+    },
+    {
+      "file": "M 27 NGC 6853 Nebula Planetary Dumbell.jpg",
+      "categories": [
+        "Messier",
+        "NGC",
+        "Nebulae",
+        "Nebulae Planetary"
+      ],
+      "info": {
+        "identifiers": {
+          "Messier": "M 27",
+          "NGC": "NGC 6853"
+        },
+        "extended_info": {
+          "Type": "PN",
+          "Coordinates": "19:59:36.38 +22:43:15.7",
+          "Constellation": "Vulpecula",
+          "Axis": "6.7",
+          "V-Mag": "7.4",
+          "M": "27",
+          "Common names": "Dumbbell Nebula"
+        }
+      }
+    },
+    {
+      "file": "M 4 NGC 6121 Spider Globular Cluster 2025-03-18 6 min.jpg",
+      "categories": [
+        "Messier",
+        "NGC",
+        "Clusters",
+        "Clusters Globular"
+      ],
+      "info": {
+        "identifiers": {
+          "Messier": "M 4",
+          "NGC": "NGC 6121"
+        },
+        "extended_info": {
+          "Type": "GCl",
+          "Coordinates": "16:23:35.40 -26:31:31.9",
+          "Constellation": "Scorpius",
+          "Axis": "28.2",
+          "V-Mag": "5.4",
+          "M": "4"
+        }
+      }
+    },
+    {
+      "file": "M 8 NGC 6523 Sharpless 25 RCW 146 Gum 72 Emission Nebula Lagoon 2025-03-26 10 min.jpg",
+      "categories": [
+        "Messier",
+        "NGC",
+        "Sharpless",
+        "Nebulae",
+        "Nebulae Emission"
+      ],
+      "info": {
+        "identifiers": {
+          "Messier": "M 8",
+          "NGC": "NGC 6523",
+          "Sharpless": "SHARPLESS 25"
+        },
+        "extended_info": {
+          "Type": "Neb",
+          "Coordinates": "18:03:41.27 -24:22:48.6",
+          "Constellation": "Sagittarius",
+          "Axis": "45.00 30.00",
+          "V-Mag": "5.8",
+          "M": "8",
+          "Common names": "Lagoon Nebula"
+        }
+      }
+    },
+    {
+      "file": "NGC4535 2024-02-13_1347 Galaxy Barred Cluster.JPEG",
+      "categories": [
+        "NGC",
+        "Galaxies",
+        "Galaxies Barred Spiral"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 4535"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "12:34:20.31 +08:11:51.9",
+          "Constellation": "Virgo",
+          "Axis": "8.15 7.48",
+          "PosAng": "27",
+          "V-Mag": "9.89",
+          "SurfBr": "23.79",
+          "Hubble": "Sc"
+        }
+      }
+    },
+    {
+      "file": "NGC6960  emission nebula Western Veil.png",
+      "categories": [
+        "NGC",
+        "Nebulae",
+        "Nebulae Emission"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 6960"
+        },
+        "extended_info": {
+          "Type": "SNR",
+          "Coordinates": "20:45:58.18 +30:35:42.5",
+          "Constellation": "Cygnus",
+          "Axis": "210.00 160.00",
+          "Common names": "Veil Nebula,Filamentary Nebula,Western Veil"
+        }
+      }
+    },
+    {
+      "file": "Planet 5a Jupiter.JPEG",
+      "categories": [
+        "Planets"
+      ]
+    },
+    {
+      "file": "Planet 9a Pluto 5 nights StarStaX average.jpg",
+      "categories": [
+        "Planets"
+      ]
+    },
+    {
+      "file": "Quasars Twin QSO 0957+561.jpg",
+      "categories": [
+        "Quasars"
+      ]
+    },
+    {
+      "file": "SN2024gy NGC4216 galaxy 846i 2024-02-04.318 .jpg",
+      "categories": [
+        "NGC",
+        "Galaxies",
+        "SuperNovae"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 4216",
+          "SuperNovae": "SN 2024GY"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "12:15:54.44 +13:08:57.8",
+          "Constellation": "Virgo",
+          "Axis": "7.82 1.84",
+          "PosAng": "20",
+          "V-Mag": "9.93",
+          "SurfBr": "23.12",
+          "Hubble": "SABb"
+        }
+      }
+    },
+    {
+      "file": "SN2024jlf NGC 5690 Spiral Galaxy 2024-06-19 12 min.png",
+      "categories": [
+        "NGC",
+        "Galaxies",
+        "Galaxies Spiral",
+        "SuperNovae"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 5690",
+          "SuperNovae": "SN 2024JLF"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "14:37:41.07 +02:17:27.0",
+          "Constellation": "Virgo",
+          "Axis": "3.20 0.99",
+          "PosAng": "145",
+          "SurfBr": "22.79",
+          "Hubble": "Sc"
+        }
+      }
+    },
+    {
+      "file": "SN2026dix NGC 3913 Spiral Galaxy Blink.gif",
+      "categories": [
+        "NGC",
+        "Galaxies",
+        "Galaxies Spiral",
+        "SuperNovae"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 3913",
+          "SuperNovae": "SN 2026DIX"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "11:50:38.94 +55:21:13.9",
+          "Constellation": "Ursa Major",
+          "Axis": "1.64 1.38",
+          "PosAng": "146",
+          "V-Mag": "12.51",
+          "SurfBr": "23.03",
+          "Hubble": "Scd"
+        }
+      }
+    },
+    {
+      "file": "SN2026dix NGC 3913 Spiral Galaxy.jpg",
+      "categories": [
+        "NGC",
+        "Galaxies",
+        "Galaxies Spiral",
+        "SuperNovae"
+      ],
+      "info": {
+        "identifiers": {
+          "NGC": "NGC 3913",
+          "SuperNovae": "SN 2026DIX"
+        },
+        "extended_info": {
+          "Type": "G",
+          "Coordinates": "11:50:38.94 +55:21:13.9",
+          "Constellation": "Ursa Major",
+          "Axis": "1.64 1.38",
+          "PosAng": "146",
+          "V-Mag": "12.51",
+          "SurfBr": "23.03",
+          "Hubble": "Scd"
+        }
+      }
+    },
+    {
+      "file": "Solar 20240618 1230.jpg",
+      "categories": [
+        "Solar"
+      ]
+    },
+    {
+      "file": "Solar 20260208-121619.jpg",
+      "categories": [
+        "Solar"
+      ]
+    },
+    {
+      "file": "Solar Spots 20250120.jpg",
+      "categories": [
+        "Solar"
+      ]
+    }
+  ]
+}
