@@ -15,18 +15,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate images_collection.json
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run JSON generator
         run: |
-          cd images
-          ls -1 *.jpg *.jpeg *.png *.gif 2>/dev/null | sort | \
-          awk '{print "\"" $0 "\""}' | \
-          sed '1s/^/[/' | sed '$s/$/]/' | \
-          paste -sd, - > ../images_collection.json
+          python generate_json.py
 
       - name: Commit update
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add images_collection.json
+          git add images.json
           git diff --cached --quiet || git commit -m "Update image list"
           git push
