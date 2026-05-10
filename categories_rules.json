@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "name": "MMAsterisms",
+      "patterns": [
+        "\\b(mma)\\s?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "Messier",
+      "patterns": [
+        "\\b(m|messier)\\s?\\d{1,3}\\b"
+      ]
+    },
+    {
+      "name": "Caldwell",
+      "patterns": [
+        "\\b(c|caldwell)\\s?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "NGC",
+      "patterns": [
+        "\\bngc[ _]?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "IC",
+      "patterns": [
+        "\\b(ic)\\s?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "Sharpless",
+      "patterns": [
+        "\\b(sharpless|sh|sh1|sh2)\\s?-?\\s?\\d{1,3}\\b"
+      ]
+    },
+    {
+      "name": "Lynds LdN",
+      "patterns": [
+        "\\bl(?:dn|nd)[ _-]?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "Abell",
+      "patterns": [
+        "\\b(abell)\\s?\\d{1,4}\\b"
+      ]
+    },
+    {
+      "name": "Arp",
+      "patterns": [
+        "\\b(arp)\\s?\\d{1,3}\\b"
+      ]
+    },
+    {
+      "name": "Galaxies",
+      "patterns": [
+        "\\b(galaxy|galaxies)\\b",
+        "\\b(pgc)\\s?\\d{3,}\\b"
+      ]
+    },
+    {
+      "name": "Galaxies Elliptical",
+      "patterns": [
+        "\\b(elliptical)\\b"
+      ]
+    },
+    {
+      "name": "Galaxies Lenticular",
+      "patterns": [
+        "\\b(lenticular)\\b"
+      ]
+    },
+    {
+      "name": "Galaxies Spiral",
+      "patterns": [
+        "\\b(spiral)\\b"
+      ]
+    },
+    {
+      "name": "Galaxies Barred Spiral",
+      "patterns": [
+        "\\b(barred)\\b"
+      ]
+    },
+    {
+      "name": "Galaxies Spheroidal",
+      "patterns": [
+        "\\b(spheroidal)\\b"
+      ]
+    },
+    {
+      "name": "Nebulae",
+      "patterns": [
+        "\\b(nebula|nebulae)\\b"
+      ]
+    },
+    {
+      "name": "Nebulae Emission",
+      "patterns": [
+        "\\b(emission)\\b"
+      ]
+    },
+    {
+      "name": "Nebulae Reflection",
+      "patterns": [
+        "\\b(reflection)\\b"
+      ]
+    },
+    {
+      "name": "Nebulae Planetary",
+      "patterns": [
+        "\\b(planetary)\\b"
+      ]
+    },
+    {
+      "name": "Nebulae Dark",
+      "patterns": [
+        "\\b(dark|ldn)\\b"
+      ]
+    },
+    {
+      "name": "Stars",
+      "patterns": [
+        "\\b(star|stars)\\b(?!\\s+clouds?)"
+      ]
+    },
+    {
+      "name": "Clusters",
+      "patterns": [
+         "^(?!.*\\bgalax(?:y|ies)\\b).*\\bcluster\\b"
+      ]
+    },
+    {
+      "name": "Clusters Open",
+      "patterns": [
+        "\\b(open)\\b"
+      ]
+    },
+    {
+      "name": "Clusters Globular",
+      "patterns": [
+        "\\b(globular|glob)\\b"
+      ]
+    },
+    {
+      "name": "SuperNovae",
+      "patterns": [
+        "\\b(?:sn|at)\\s?\\d{4}[a-z]{1,4}\\b"
+      ]
+    },
+    {
+      "name": "Quasars",
+      "patterns": [
+        "\\b(quasar|quasars)\\b"
+      ]
+    },
+    {
+      "name": "Planets",
+      "patterns": [
+        "\\b(planet)\\b"
+      ]
+    },
+    {
+      "name": "Lunar",
+      "patterns": [
+        "\\b(moon|lunar)\\b"
+      ]
+    },
+    {
+      "name": "Solar",
+      "patterns": [
+        "\\b(solar|sun)\\b"
+      ]
+    },
+    {
+      "name": "Uncategorized",
+      "rules": []
+    }
+  ]
+}
