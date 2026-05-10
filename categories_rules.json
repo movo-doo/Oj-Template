@@ -176,6 +176,18 @@
       ]
     },
     {
+      "name": "Asteroids",
+      "patterns": [
+        "\\b(asteroid)\\b"
+      ]
+    },
+    {
+      "name": "Comets",
+      "patterns": [
+        "\\b(comet)\\b"
+      ]
+    },
+    {
       "name": "Uncategorized",
       "rules": []
     }
