@@ -176,6 +176,16 @@ container.style.position = "relative";
 }
 
 /* RIGHT INFO PANEL */
+
+.viewer-filename-bar {
+  padding: 10px 14px;
+  background: #111;
+  color: #eee;
+  font-family: monospace;
+  font-size: 13px;
+  border-bottom: 1px solid #333;
+}
+
 .viewer-info-panel {
   min-width: 320px;
   color: #111;            /* dark text for contrast */

@@ -205,7 +205,6 @@ function openImageViewer(item) {
 
           </div>
 
-
           <div class="viewer-info-panel">
 
             <div class="viewer-meta-block">
@@ -340,13 +339,17 @@ function createInfoElements(item) {
 
 function buildInfoHtml(item) {
 
+  let html = "";
+
+  if (item.file) {
+    html += `<div class="filename">Filename: ${item.file}</div>`;
+  }
+
   if (!item.info) {
-    return "No information";
+    return html || "No information";
   }
 
   const info = item.info;
-
-  let html = "";
 
   if (info.title) {
     html += `<div>${info.title}</div>`;
@@ -367,7 +370,7 @@ function buildInfoHtml(item) {
   // NEW: identifiers block
   if (info.identifiers) {
 
-    html += `<div>Identifiers</div>`;
+    html += `<div>Identifiers:</div>`;
     
     html += `<div class="identifiers-list">`;
 
@@ -380,7 +383,7 @@ function buildInfoHtml(item) {
   // NEW: extended_info block
   if (info.extended_info) {
 
-    html += `<div>Extended Info</div>`;
+    html += `<div>Extended Info:</div>`;
     html += `<div class="extended-info-list">`;
 
     for (const [key, value] of Object.entries(info.extended_info)) {
